@@ -4,7 +4,7 @@ A responsive front-end landing page for a pizza & burger spot, built with HTML5,
 
 ## Live Preview
 
-Open `index.html` in a browser, or serve the folder with any static server.
+https://iaashishk.github.io/Food-Lover/
 
 ## Features
 
