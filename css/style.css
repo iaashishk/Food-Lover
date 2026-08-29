@@ -447,3 +447,28 @@ body.dark-mode .preloader {
     background-color: hsl(222, 18%, 15%);
   }
 }
+
+html, body {
+  overflow-x: hidden;
+}
+
+.hero-image {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+body.dark-mode .navbar-brand,
+body.dark-mode .nav-link,
+body.dark-mode .nav-link.text-dark {
+  color: var(--title-color) !important;
+}
+
+body.dark-mode .navbar .bi-moon-fill,
+body.dark-mode .navbar .bi-sun-fill {
+  fill: var(--title-color);
+}
+
+body.dark-mode .ur-ap {
+  color: var(--title-color) !important;
+}
