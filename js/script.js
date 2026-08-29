@@ -11,7 +11,7 @@
   var favicon = document.createElement("link");
   favicon.rel = "icon";
   favicon.type = "image/png";
-  favicon.href = "/img/favicon.png";
+  favicon.href = "img/favicon.png";
   document.head.appendChild(favicon);
 
   var preloader = document.createElement("div");
